@@ -280,6 +280,37 @@
 .image9{
     width: 98vw;
     height: 464px;
-    margin-top: 400px;
+    margin-top: 80px;
+}
+.container3{
+    display: flex;
+    justify-content: center;
+}
+.box1{
+    margin-top: 140px;
+    height: 44vh;
+    width: 40vw;
+    border: black 1px solid;
+    border-top: 10px black solid;
+}
+.box2{
+    height: 17vh;
+    width: 35vw;
+    /* background-color: brown; */
+    text-align: center;
+    font-size: 16px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+h5{
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+}
+.image10{
+    width: 31vw;
+    height: 10vh;
+    
+    margin-top: 36px;
 }
 
